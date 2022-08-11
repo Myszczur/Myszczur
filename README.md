@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### About me 😄😄🤔
  
-Programming has always been my passion 😎, and now thanks to the IT CodersLab school 💖💖 I have made this dream come true.
+Programming has always been my passion 😎, and now thanks to the CodersLab school of IT 💖💖 I have made this dream come true.
 Of all languages, Java has stolen my heart. 
 
 Of course my heart is still open to other languages as the programming world is what I love.
