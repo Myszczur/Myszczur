@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there👋
+
+### About me 😄🤔
+Programming has always been my passion and now thanks to the CodersLab school of IT 😎 I have made this dream come true.
+Of all languages, Java has stolen my heart.
+
+Of course my heart is still open to other languages as the programming world is what I love.
+
+My adventure with Java did not end at Back-end💪, because from October, again thanks to CodersLab😎,
+I will make another dream come true,
+namely to become a Java Full-Stack Developer with Advanced JavaScript, Redux and React.✌️
 
 <!--
 **Myszczur/Myszczur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,18 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-### About me 😄😄🤔
- 
-Programming has always been my passion 😎, and now thanks to the CodersLab school of IT 💖💖 I have made this dream come true.
-Of all languages, Java has stolen my heart. 
-
-Of course my heart is still open to other languages as the programming world is what I love.
-
-My adventure with Java did not end at Back-end 💪💪, because from October, again thanks to CodersLab 💖, 
-I will make another dream come true, 
-namely to become a Java Full-Stack Developer 📫📫✌️✌️
-
-In October I will have another bootcamp training which it includes Advanced JavaScript, Redux and React. 🤔⚡
-👋👋👋
