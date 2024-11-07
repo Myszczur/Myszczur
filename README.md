@@ -1,14 +1,19 @@
 ### Hi there👋
 
 ### About me 😄🤔
-Programming has always been my passion and now thanks to the CodersLab school of IT 😎 I have made this dream come true.
-Of all languages, Java has stolen my heart.
+Hi! I'm a programming enthusiast for whom coding is more than just work — it's a true passion. 
+I'm especially drawn to Java and React, as they enable me to create efficient and interactive applications. 
+I'm fascinated by building things from scratch, exploring new solutions, and discovering how various technologies can complement each other. 
+Although Java and React are my specialties, my heart and mind are open to other languages and tools that can help me expand my skills even further.
 
-Of course my heart is still open to other languages as the programming world is what I love.
+🌱 Currently, I'm diving into Next.js, Node.js, and Three.js, continuously pushing myself to explore new technologies and broaden my development toolkit.
 
-My adventure with Java did not end at Back-end💪, because from October, again thanks to CodersLab😎,
-I will make another dream come true,
-namely to become a Java Full-Stack Developer with Advanced JavaScript, Redux and React.✌️
+⚡ I constantly strive to improve because I believe that growth is the key to success in the tech world. 
+I see each new challenge as an opportunity to learn. 
+I’m a hardworking and determined person, always ready to take action and pursue the next steps to become an even better developer. 
+I work consistently, focusing on both solid foundations and creativity in finding new solutions.
+
+
 
 <!--
 **Myszczur/Myszczur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
