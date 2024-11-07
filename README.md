@@ -1,7 +1,7 @@
 ### Hi there👋
 
 ### About me 😄🤔
-Hi! I'm a programming enthusiast for whom coding is more than just work — it's a true passion. 
+I'm a programming enthusiast for whom coding is more than just work — it's a true passion. 
 I'm especially drawn to Java and React, as they enable me to create efficient and interactive applications. 
 I'm fascinated by building things from scratch, exploring new solutions, and discovering how various technologies can complement each other. 
 Although Java and React are my specialties, my heart and mind are open to other languages and tools that can help me expand my skills even further.
